@@ -18,4 +18,3 @@
 - VPN
   - ![vwan-vpn-simple](https://github.com/Azure-Terraformer/terraform-azurerm-vwan-vpn/actions/workflows/tftests-vwan-vpn-simple.yaml/badge.svg)
 
-  
