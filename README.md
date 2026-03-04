@@ -13,3 +13,9 @@
   - ![cosmos](https://github.com/Azure-Terraformer/terraform-azurerm-network-dns-zone/actions/workflows/tftests-cosmos.yaml/badge.svg)
   - ![container-app](https://github.com/Azure-Terraformer/terraform-azurerm-network-dns-zone/actions/workflows/tftests-container-app.yaml/badge.svg)
   - ![ai](https://github.com/Azure-Terraformer/terraform-azurerm-network-dns-zone/actions/workflows/tftests-ai.yaml/badge.svg)
+- Virtual WAN
+  - ![vwan-simple](https://github.com/Azure-Terraformer/terraform-azurerm-vwan/actions/workflows/tftest-vwan-simple.yaml/badge.svg)
+- VPN
+  - ![vwan-vpn-simple](https://github.com/Azure-Terraformer/terraform-azurerm-vwan-vpn/actions/workflows/tftests-vwan-vpn-simple.yaml/badge.svg)
+
+  
